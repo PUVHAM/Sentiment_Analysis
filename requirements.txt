@@ -1,0 +1,11 @@
+gdown
+numpy
+pandas
+nltk==3.9.1
+tqdm
+scikit-learn
+streamlit
+seaborn
+matplotlib
+beautifulsoup4
+contractions
